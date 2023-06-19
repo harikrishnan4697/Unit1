@@ -27,6 +27,6 @@ Adder4Bit theAdder (
    .b   (b   ),
    .sum (sum ),
    .cout(cout)
-)
+);
 
 endmodule
